@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299246332208",
+    "project_id": "atividadeac2",
+    "storage_bucket": "atividadeac2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299246332208:android:ed48865fa583a52cfb80f5",
+        "android_client_info": {
+          "package_name": "com.example.atividadeac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZnIca1MlURvV-rUuzUnFvIXO5oz61iUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
